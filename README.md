@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **manasparwani397@gmail.com**
 
-<p align="left">
 
 
 <h3 align="left">Languages and Tools:</h3>
