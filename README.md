@@ -22,7 +22,7 @@
 
 <p align="center">
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Tech&theme=dark&hide_border=false"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Tech&theme=white&hide_border=false"/>
 </p>
 
 #
@@ -82,13 +82,13 @@
 <br/>
 
 <p align="center">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Manas-Tech&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img align="left" height="135px" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Tech&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Manas-Tech&theme=white&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img align="left" height="135px" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Tech&theme=green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 </details>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Manas-Tech&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Manas-Tech&theme=white&hide_border=true&area=true)
 
 <h4 align="center">
   
