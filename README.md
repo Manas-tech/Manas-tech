@@ -14,9 +14,19 @@
 🔭 I’m currently working on machine learning<br>👯 I’m looking to collaborate on projects related to c and python<br>🤝 I’m looking for help with skill building<br>🌱 I’m currently learning c,c++,python and HTML<br>💬 Ask me about logic building<br>⚡ Fun fact "'Even Hardest of the has end"
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_manas_.____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manas-parwani-049120251/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](manasparwani397@gmail.com) 
+## 🌐 Connect With Me:
+</h3>
+<p align="left" style='margin: 16px 4px 8px;'>
+   
+  <a href="mailto:manasparwani397@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:kartikjain2626@gmail.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/manas-parwani-049120251/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/kartik-jain-473ab81b2/" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.instagram.com/_manas_.____/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
 
 
 # 💻 Tech Stack:
