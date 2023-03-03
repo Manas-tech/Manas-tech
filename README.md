@@ -1,6 +1,6 @@
 <h1 align="center">
  
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇ELLO, &lt;CODERS/&gt;!
 
 </h1>
 <p align='center' style='margin: 16px 4px 8px;'>
