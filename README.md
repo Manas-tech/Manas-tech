@@ -8,7 +8,7 @@
 </p>
 
 
-<img align="right" height="250" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"/>
+<img align="right"  height="250" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"/>
 
 # 💫 About Me:
 🔭 I’m currently working on machine learning<br>👯 I’m looking to collaborate on projects related to c,c++ and python<br>🤝 I’m looking for help with app and web developement<br>🌱 I’m currently learning c,c++,python and HTML<br>💬 Ask me about logic building and learning <br>⚡ Fun fact "'Even Hardest of the day has a end"
