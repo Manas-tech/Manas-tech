@@ -43,9 +43,9 @@
 </p>
 
 
+<a href="https://github.com/Manas-tech/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Manas-tech&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Manas-Tech&theme=green&hide_border=true&area=true)
 
 <h4 align="center">
 <!-- Proudly created with  ( https://gprm.itsvg.in ) -->
