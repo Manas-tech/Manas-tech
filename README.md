@@ -4,7 +4,7 @@
   𝐇ello , &lt;Coder's/&gt;!
 
 </h1>
-<p align='center' style='margin: 14px 6px 8px;'>
+<p align='center' style='margin: 14px 7px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+full+stack+developer+from+India" alt="Welcome to my GitHub Profile. I am a fullstack developer from India." />
 </p>
 
