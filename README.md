@@ -31,7 +31,7 @@
 
 
 # 💻 Tech Stack:
-[![SkillIcons](https://skillicons.dev/icons?i=java,html,vscode,git,c,cpp,python)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,vscode,js,mysql,css,git,c,cpp,python)](https://skillicons.dev)<br/>
 
  <h1>Github Stats ⚡:</h1>
   
