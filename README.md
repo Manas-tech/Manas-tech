@@ -15,7 +15,7 @@
 🔭 I’m currently working on machine learning<br>👯 I’m looking to collaborate on projects related to c,c++ and python<br>🤝 I’m looking for help with app and web developement<br>🌱 I’m currently learning c,c++,python and HTML<br>💬 Ask me about logic building and learning <br>⚡ Fun fact "'Even Hardest of the day has a end"
 
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me :
 </h3>
 <p align="left" style='margin: 16px 4px 8px;'>
    
