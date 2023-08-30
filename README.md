@@ -17,7 +17,7 @@
 
 ## 🌐 Connect With Me :
 </h3>
-<p align="left" style='margin: 16px 4px 8px;'>
+<p align="left" style='margin: 16px 5px 8px;'>
    
   <a href="mailto:manasparwani397@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:manasparwani397@gmail.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
