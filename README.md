@@ -40,8 +40,7 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-tech&layout=compact&theme=swift&count_private=true&hide_border=true)</a>
 <p align="center">
   
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-tech&theme=swift&hide_border=true"/>
-</p>
+
 
 
 
