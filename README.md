@@ -1,11 +1,11 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg">
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="GITHUB"/>
  
   𝐇ello,&lt;Coder's/&gt;!
 
 </h1>
 <p align='center' style='margin: 14px 12px 9px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+full+stack+developer+from+India" alt="Welcome to my GitHub Profile. I am a fullstack developer from India. " />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+full+stack+developer" alt="Welcome to my GitHub Profile. I am a fullstack developer from India. " />
 </p>
 
 
