@@ -32,7 +32,7 @@
 
 
 # 💻 Tech Stack:
-[![SkillIcons](https://skillicons.dev/icons?i=html,vscode,js,mysql,css,git,c,cpp,python,mongodb,react)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,vscode,js,mysql,css,git,c,cpp,python,flutter,mongodb,react)](https://skillicons.dev)<br/>
 
  <h1>Github Stats ⚡:</h1>
   
@@ -44,9 +44,7 @@
 </p>
 
 
-<a href="https://github.com/Manas-tech/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Manas-tech&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
-<h4 align="center">
 <!-- Proudly created with  ( https://gprm.itsvg.in ) -->
